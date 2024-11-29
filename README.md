@@ -1,16 +1,15 @@
-# app_payment
+# APP Payment - Design
 
-A new Flutter project.
+Splash:
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/1f60151a-a9d4-413a-b848-19d1e0857b78)
 
-This project is a starting point for a Flutter application.
+Login:
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/8ca17c8f-b282-4368-8da4-c7e0e6b7f0c3)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Home:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/87d73287-4f38-408c-bc52-8d322c246d19)
+
+
